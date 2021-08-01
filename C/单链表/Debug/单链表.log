@@ -1,0 +1,4 @@
+﻿  SList.c
+C:\Git\Test\C\单链表\SList.c(21,3): warning C4033: “BuySListNode”必须返回值
+C:\Git\Test\C\单链表\SList.c(27): warning C4715: “BuySListNode”: 不是所有的控件路径都返回值
+  单链表.vcxproj -> C:\Git\Test\C\单链表\Debug\单链表.exe
